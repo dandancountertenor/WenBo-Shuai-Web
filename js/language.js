@@ -11,7 +11,7 @@ const translations = {
         'hero.subtitle': '假声男高音',
         'hero.button': '了解更多',
         'about.subtitle': '关于我',
-        'about.bio1': '他被欧洲的乐评⼈称之为：⼀个充满戏剧张⼒的嗓⾳。\n' + 
+        'about.bio1': '他被欧洲的乐评⼈称之为：⼀个富有戏剧张⼒的嗓⾳。\n' + 
             '本科就读于上海音乐学院声乐歌剧系（2020-2025），跟随上海音乐学院声乐歌剧系施恒教授、艺术指导吴越女士。他也是上海音乐学院声乐歌剧系历史上的第一位假声男高音。\n ' +
             '从2025起，作为研究生就读于德国斯图加特国立音乐与表演艺术学院声乐歌剧系，跟随克罗地亚籍女中音歌唱家DianaHaller学习。\n'+ 
             '他在欧洲求学期间跟随了世界著名花腔女高音歌唱家Cheryl Studer女士，柏林汉斯艾斯勒音乐学院教授/声乐教育家Renata Faltin女士学习，同时他还接受过意大利女高音歌唱家Francesco Bruni，韩国男中音歌唱家ChangHan Lim，旅德钢琴家⻢源女士、柏林国家歌剧院Mr.Klauss Sallmann与Mr.Uwe Griem、法兰克福国家歌剧院Mr.Felice Venanzoni...等等的老师们的指导与帮助。\n'+ 
@@ -157,7 +157,7 @@ const translations = {
         'about.bio2': 'In 2025 he entered the Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart to study (Gesang-Oper with Diana Haller).\n' +
             'From 2023, he has been studying in Europe under Prof. Renate Faltin (Hochschule für Musik Hanns Eisler), Prof. Cheryl Studer (Hochschule für Musik Würzburg), Mr. Klaus Sallmann(Staatsoper Berlin),Mr. Uwe Griem, and Mr. Felice Venanzoni (Oper Frankfurt).\n' +
             '2020-2025, he study in Shanghai Conservatory of Music (Vocal and Opera with Prof.Heng Shi).\n' +
-            '2025.09,He is a member of Waiblingen international Opernwerkstatt (Germany) and an opera scholarship winner.In the meantime, he will study with Thomas Hampsen and Melanie Diener and give concerts with Württembergischen Philharmonie Reutlingen.\n',
+            '2025.09,He is a member of Waiblingen international Opernwerkstatt (Germany) and an opera scholarship winner.In the meantime, he will study with Thomas Hampson and Melanie Diener and give concerts with Württembergischen Philharmonie Reutlingen.\n',
         'about.bio3': '2023.05, He held a concert of "Resplendent Pearl" Baroque Music at the Opera House of the Shanghai Conservatory of Music. 2023.06，He performed "Baroque Chamber Music Concert" with the Chamber Orchestra of Shanghai Conservatory of Music. And served as the lead singer and chorus of the alto part of the Purcell opera "The Fairy Queen".2023.06, He performed Gouno\' opera "Romeo et Juliette" and played "Stepheno" in Shanghai. 2023.11, He attended the "German and Russian Master Concert-Night of Art songs" held at the ShangYin Opera House.\n'+ 
             'He began to study vocal music in 2016 and tried to learn both tenor and baritone in a period of time. In 2018, he met Italian soprano Francesca Bruni and Shanghai Conservatory of Music Bass- Baritone Pro.Heng Shi, transitionto study Countertenor.\n' +
             'Since 2019, he has become a resident actor of the French "Festival International d\\\'Art Lyrique d\\\'Argeles" and participated in the production of the "Faust" and "L\\\'Elisir D\\\'Amore". 2019.11, He participated in the C.F. Gounod opera "Faust" directed by Shi Heng, a professor at the Shanghai Conservatory of Music. And played "Siebel" in it.',
