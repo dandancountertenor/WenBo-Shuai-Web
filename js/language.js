@@ -11,22 +11,12 @@ const translations = {
         'hero.subtitle': '假声男高音',
         'hero.button': '了解更多',
         'about.subtitle': '关于我',
-        'about.bio1': '他被欧洲的乐评⼈称之为：⼀个富有戏剧张⼒的嗓⾳。\n' + 
-            '本科就读于上海音乐学院声乐歌剧系（2020-2025），跟随上海音乐学院声乐歌剧系施恒教授、艺术指导吴越女士。他也是上海音乐学院声乐歌剧系历史上的第一位假声男高音。\n ' +
-            '从2025起，作为研究生就读于德国斯图加特国立音乐与表演艺术学院声乐歌剧系，跟随克罗地亚籍女中音歌唱家DianaHaller学习。\n'+ 
-            '他在欧洲求学期间跟随了世界著名花腔女高音歌唱家Cheryl Studer女士，柏林汉斯艾斯勒音乐学院教授/声乐教育家Renata Faltin女士学习，同时他还接受过意大利女高音歌唱家Francesco Bruni，韩国男中音歌唱家ChangHan Lim，旅德钢琴家⻢源女士、柏林国家歌剧院Mr.Klauss Sallmann与Mr.Uwe Griem、法兰克福国家歌剧院Mr.Felice Venanzoni...等等的老师们的指导与帮助。\n'+ 
-            '2025年他加入了由世界著名男中音歌唱家Thomas Hampson和女高音歌唱家Melanie Diener在德国Waiblingen市组织的国际歌剧工作室Internationale Opernwerkstatt Waiblingen，是该项目2025年度歌剧奖学金的获得者。',
-        'about.bio2': '近年来，他的身影活跃在世界众多国际知名赛事，并获得了一些成绩：\n' +
-            '• 希腊“International Association of Art\'THE MUSE \'”比赛获得一等奖“FIRST PRIZE”\n' +
-            '• 意大利“Bologna International Vocal Competition博洛尼亚国际声乐大赛”第五名/ “ENCOURAGEMENT AWARD”\n' +
-            '• 意大利维罗纳“VINCERÒ World Opera Competition世界歌剧大赛”⻘年组第二名“2°PREMIO-GIOVANI”，随后在正赛\n' +
-            '组别中获得了“VINCERÒ World Opera Competition”第三名 “3°PREMIO”和评论家特别奖“PREMIO CRITICA”\n' +
-            '• 意大利第七届“"Giovan Battista Rubini"国际声乐比赛”决赛奖“PREMIO FINALISTI”\n' +
-            '• 韩国Daegu举办的第42届“大邱国际声乐大赛Daegu International Vocal Music Competition”的决赛奖“FINALIST”以及大都会歌剧奖“SPECIAL PRIZE-METROPOLITAN OPERA COMPANY“\n' +
-            '他入围过西班牙Barcelona举办的第60-62届 “Tenor Viñas声乐大赛”并闯入semintration。此外他还入围了例如美国New York举办的第34届“Opera at Florham\'s国际声乐比赛”、第23届“Ottavio ZIINO国际歌剧比赛”，葡萄牙举办的“Cascais International Opera Competition”等众多国际职业大赛。',
-        'about.bio3': '2025年9月，他加入了德国Waiblingen市，由Thomas Hampsen和Melanie Diener共同举办的International Opernwerkstatt，并与Württembergischen Philharmonie Reutlingen共同演绎音乐会。\n'+ 
-            '2023年他在意大利博洛尼亚的Sala Mozart in the Accademia Filarmonic参与了“博洛尼亚国际声乐比赛获奖者音乐会”。在意大利维罗纳与Teatro Filarmonico剧院乐团合作演出了“Vincerò世界歌剧大赛决赛音乐会”。2022年五月在上海音乐学院“音才助飞”项目的帮助下，他成功在上音歌剧院举办“璀璨明珠”巴洛克音乐实践音乐会。在上海音乐学院室内乐团与恰空古乐团在贺绿汀音乐厅的合作音乐会——《巴洛克室内乐音乐会》中担任Purcell珀塞尔歌剧《The Fairy Queen仙后》Alto主唱与四重合唱。2023年11月参加了由上音歌剧院举办的第16届“艺术歌曲之夜·德俄大师”音乐会。\n' +
-            '自2019年起，他成为法国阿尔日莱斯国际艺术节的常驻演员，参与了《Faust浮士德》和《L\'Elisir D\'Amore爱之甘醇》等歌剧的制作，在上海他饰演了由施恒教授执导的古诺歌剧《Faust》中的角色“Siebel”与歌剧《Romeo et Juliette罗密欧与朱丽叶》中的角色“Stepheno”。',
+        'about.bio1': '他拥有一个被欧洲乐评人赞誉为“富有戏剧张力”的嗓音。\n' + 
+            '他的音乐之路开始在上海音乐学院，于2020至2025年间攻读声乐歌剧系学士学位，师从施恒教授，作为上海音乐学院历史上首位假声男高音，之后他选择前往德国并在2025年10月成为斯图加特国立音乐与表演艺术学院声乐歌剧系的硕士研究生，师从克罗地亚籍女中音歌唱家Diana Haller与教授Bernhard Epstein\n ' +
+            '在欧洲求学期间，他有幸跟随Cherly Studer, Melanie Diener, Vivica Genaux, Renate Faltin, Francesca Bruni等老师学习.\n'+ 
+            '2025年，他的才华获得了国际歌剧界的进一步认可。他成功入选由世界著名男中音托马斯·汉普森和女高音梅拉妮·迪纳在德国魏布林根创办的国际歌剧工作室，并成为该项目年度歌剧奖学金的获得者，并在魏布林根国际歌剧工作室中与专业乐团合作演出。2026年他在斯图加特的威廉玛剧院主演了由Jorg Helubeck指挥和Max Hoehn导演的蒙特威尔第的巴洛克歌剧《波佩亚的加冕》饰演Ottone.',
+        'about.bio2': '他的身影活跃在全球各大顶级声乐赛场。他在意大利博洛尼亚国际声乐大赛中获得第五名及鼓励奖，在维罗纳“Vincerò”世界歌剧大赛赢得了第三名和评论家特别奖。他获得了韩国大邱国际声乐大赛的决赛奖及大都会歌剧特别奖，并入围了包括西班牙“Tenor Viñas”、瑞典“Wilhelm Stenhammar”、奥地利“Pietro Antonio Cesti”巴洛克歌剧大赛在内的多项国际赛事。',
+        'about.bio3': '自2019年起，他便成为法国阿尔日莱斯国际艺术节的常驻演员，参演了《浮士德》、《爱之甘醇》等多部歌剧。在上海求学期间，他在上海饰演歌剧《浮士德》中的Siebel和《罗密欧与朱丽叶》的Stepheno。他不仅在意大利博洛尼亚和维罗纳的著名音乐厅成功举办了获奖者音乐会，还在上海音乐学院的支持下，主导并参演了多场巴洛克风格与艺术歌曲专场音乐会。',
         'about.resumeCn': '下载简历',
         'features.title': '过往活动',
         'features.item1.title': '个人形象',
