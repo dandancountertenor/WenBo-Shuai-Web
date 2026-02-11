@@ -11,22 +11,13 @@ const translations = {
         'hero.subtitle': '假声男高音',
         'hero.button': '了解更多',
         'about.subtitle': '关于我',
-        'about.bio1': '他被欧洲的乐评⼈称之为：⼀个充满戏剧张⼒的嗓⾳。\n' + 
-            '本科就读于上海音乐学院声乐歌剧系（2020-2025），跟随上海音乐学院声乐歌剧系施恒教授、艺术指导吴越女士。他也是上海音乐学院声乐歌剧系历史上的第一位假声男高音。\n ' +
-            '从2025起，作为研究生就读于德国斯图加特国立音乐与表演艺术学院声乐歌剧系，跟随克罗地亚籍女中音歌唱家DianaHaller学习。\n'+ 
-            '他在欧洲求学期间跟随了世界著名花腔女高音歌唱家Cheryl Studer女士，柏林汉斯艾斯勒音乐学院教授/声乐教育家Renata Faltin女士学习，同时他还接受过意大利女高音歌唱家Francesco Bruni，韩国男中音歌唱家ChangHan Lim，旅德钢琴家⻢源女士、柏林国家歌剧院Mr.Klauss Sallmann与Mr.Uwe Griem、法兰克福国家歌剧院Mr.Felice Venanzoni...等等的老师们的指导与帮助。\n'+ 
-            '2025年他加入了由世界著名男中音歌唱家Thomas Hampson和女高音歌唱家Melanie Diener在德国Waiblingen市组织的国际歌剧工作室Internationale Opernwerkstatt Waiblingen，是该项目2025年度歌剧奖学金的获得者。',
-        'about.bio2': '近年来，他的身影活跃在世界众多国际知名赛事，并获得了一些成绩：\n' +
-            '• 希腊“International Association of Art\'THE MUSE \'”比赛获得一等奖“FIRST PRIZE”\n' +
-            '• 意大利“Bologna International Vocal Competition博洛尼亚国际声乐大赛”第五名/ “ENCOURAGEMENT AWARD”\n' +
-            '• 意大利维罗纳“VINCERÒ World Opera Competition世界歌剧大赛”⻘年组第二名“2°PREMIO-GIOVANI”，随后在正赛\n' +
-            '组别中获得了“VINCERÒ World Opera Competition”第三名 “3°PREMIO”和评论家特别奖“PREMIO CRITICA”\n' +
-            '• 意大利第七届“"Giovan Battista Rubini"国际声乐比赛”决赛奖“PREMIO FINALISTI”\n' +
-            '• 韩国Daegu举办的第42届“大邱国际声乐大赛Daegu International Vocal Music Competition”的决赛奖“FINALIST”以及大都会歌剧奖“SPECIAL PRIZE-METROPOLITAN OPERA COMPANY“\n' +
-            '他入围过西班牙Barcelona举办的第60-62届 “Tenor Viñas声乐大赛”并闯入semintration。此外他还入围了例如美国New York举办的第34届“Opera at Florham\'s国际声乐比赛”、第23届“Ottavio ZIINO国际歌剧比赛”，葡萄牙举办的“Cascais International Opera Competition”等众多国际职业大赛。',
-        'about.bio3': '2025年9月，他加入了德国Waiblingen市，由Thomas Hampsen和Melanie Diener共同举办的International Opernwerkstatt，并与Württembergischen Philharmonie Reutlingen共同演绎音乐会。\n'+ 
-            '2023年他在意大利博洛尼亚的Sala Mozart in the Accademia Filarmonic参与了“博洛尼亚国际声乐比赛获奖者音乐会”。在意大利维罗纳与Teatro Filarmonico剧院乐团合作演出了“Vincerò世界歌剧大赛决赛音乐会”。2022年五月在上海音乐学院“音才助飞”项目的帮助下，他成功在上音歌剧院举办“璀璨明珠”巴洛克音乐实践音乐会。在上海音乐学院室内乐团与恰空古乐团在贺绿汀音乐厅的合作音乐会——《巴洛克室内乐音乐会》中担任Purcell珀塞尔歌剧《The Fairy Queen仙后》Alto主唱与四重合唱。2023年11月参加了由上音歌剧院举办的第16届“艺术歌曲之夜·德俄大师”音乐会。\n' +
-            '自2019年起，他成为法国阿尔日莱斯国际艺术节的常驻演员，参与了《Faust浮士德》和《L\'Elisir D\'Amore爱之甘醇》等歌剧的制作，在上海他饰演了由施恒教授执导的古诺歌剧《Faust》中的角色“Siebel”与歌剧《Romeo et Juliette罗密欧与朱丽叶》中的角色“Stepheno”。',
+        'about.bio1': '他拥有一个被欧洲乐评人赞誉为“富有戏剧张力”的嗓音。\n' + 
+            '他表演了以下角色：蒙特威尔第歌剧《波佩亚的加冕》中的奥托内，古诺德的《浮士德》中的西贝尔，《罗密欧与朱丽叶》中的斯蒂芬诺，以及珀塞尔的歌剧《仙女女王》中的Alto独奏家。\n ' +
+            '他的音乐之路开始在上海音乐学院，于2020至2025年间攻读声乐歌剧系学士学位，师从施恒教授，也是上海音乐学院历史上首位假声男高音，之后他选择前往德国学习，并在2025年10月成为斯图加特国立音乐与表演艺术学院声乐歌剧系的硕士研究生，师从克罗地亚籍女中音歌唱家Diana Haller与教授Bernhard Epstein。\n'+ 
+        'about.bio2': '近年来，他的身影活跃在全球各大顶级声乐赛场。他在意大利博洛尼亚国际声乐大赛中获得第五名及鼓励奖，在维罗纳“Vincerò”世界歌剧大赛赢得了第三名和评论家特别奖。他获得了韩国大邱国际声乐大赛的决赛奖及大都会歌剧特别奖，并入围了包括西班牙“Tenor Viñas”、瑞典“Wilhelm Stenhammar”、奥地利“Pietro Antonio Cesti”巴洛克歌剧大赛，韩国首尔国际声乐比赛等…多项国际赛事。\n' +
+            '2025年，他的才华获得了国际歌剧界的进一步认可。他成功入选由世界著名男中音托马斯·汉普森和女高音梅拉妮·迪纳在德国魏布林根创办的国际歌剧工作室，并成为该项目年度歌剧奖学金的获得者，并在魏布林根国际歌剧工作室中与专业乐团合作演出。2026年他在斯图加特的威廉玛剧院主演了由Jorg Helubeck指挥和Max Hoehn导演的蒙特威尔第的巴洛克歌剧《波佩亚的加冕》并成功饰演Ottone.\n' +
+            '在欧洲求学期间，他有幸跟随Cherly Studer, Melanie Diener, Vivica Genaux, Renate Faltin, Francesca Bruni等老师学习。',
+        'about.bio3': '自2019年起，他便成为法国阿尔日莱斯国际艺术节的常驻演员，参演了《浮士德》、《爱之甘醇》等多部歌剧。在上海求学期间，他在上海饰演歌剧《浮士德》中的Siebel和《罗密欧与朱丽叶》的Stepheno。他不仅在意大利博洛尼亚和维罗纳的著名音乐厅成功举办了获奖者音乐会，还在上海音乐学院和斯图加特国立音乐与表演学院的支持下，主导并参演了多场巴洛克风格与艺术歌曲专场音乐会。\n'+ 
         'about.resumeCn': '下载简历',
         'features.title': '过往活动',
         'features.item1.title': '个人形象',
@@ -148,19 +139,13 @@ const translations = {
         'hero.subtitle': 'Countertenor',
         'hero.button': 'Learn More',
         'about.subtitle': 'About Me',
-        'about.bio1': 'WenBo Shuai was commented by European critics as: a voice full of dramatic tension.\n' + 
-            'He won awards in some international competitions, such as:\n ' +
-            '• 42 ° Daegu International Vocal Music Competition- FINALIST / SPECIAL PRIZE"METROPOLITAN OPERA COMPANY"\n'+ 
-            '• VII Concorso Lirico Internazionale "Giovan Battista Rubini"- Finalist \n'+ 
-            '• 3rd VINCERÒ Opera World Competition- 3° PREMIO / PREMIO "CRITICA" \n'+ 
-            '• 2023 Bologna International Voice Competition-5° PREMIO-ENCOURAGEMENT AWARD...',
-        'about.bio2': 'In 2025 he entered the Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart to study (Gesang-Oper with Diana Haller).\n' +
-            'From 2023, he has been studying in Europe under Prof. Renate Faltin (Hochschule für Musik Hanns Eisler), Prof. Cheryl Studer (Hochschule für Musik Würzburg), Mr. Klaus Sallmann(Staatsoper Berlin),Mr. Uwe Griem, and Mr. Felice Venanzoni (Oper Frankfurt).\n' +
-            '2020-2025, he study in Shanghai Conservatory of Music (Vocal and Opera with Prof.Heng Shi).\n' +
-            '2025.09,He is a member of Waiblingen international Opernwerkstatt (Germany) and an opera scholarship winner.In the meantime, he will study with Thomas Hampsen and Melanie Diener and give concerts with Württembergischen Philharmonie Reutlingen.\n',
-        'about.bio3': '2023.05, He held a concert of "Resplendent Pearl" Baroque Music at the Opera House of the Shanghai Conservatory of Music. 2023.06，He performed "Baroque Chamber Music Concert" with the Chamber Orchestra of Shanghai Conservatory of Music. And served as the lead singer and chorus of the alto part of the Purcell opera "The Fairy Queen".2023.06, He performed Gouno\' opera "Romeo et Juliette" and played "Stepheno" in Shanghai. 2023.11, He attended the "German and Russian Master Concert-Night of Art songs" held at the ShangYin Opera House.\n'+ 
-            'He began to study vocal music in 2016 and tried to learn both tenor and baritone in a period of time. In 2018, he met Italian soprano Francesca Bruni and Shanghai Conservatory of Music Bass- Baritone Pro.Heng Shi, transitionto study Countertenor.\n' +
-            'Since 2019, he has become a resident actor of the French "Festival International d\\\'Art Lyrique d\\\'Argeles" and participated in the production of the "Faust" and "L\\\'Elisir D\\\'Amore". 2019.11, He participated in the C.F. Gounod opera "Faust" directed by Shi Heng, a professor at the Shanghai Conservatory of Music. And played "Siebel" in it.',
+        'about.bio1': 'He possesses a voice praised by European critics as "rich in dramatic tension."\n' + 
+            'He has performed the following roles: Ottone in Monteverdi‘s opera L’incoronazione di Poppea, Siebel in Gounod’s Faust, Stepheno in Roméo et Juliette, and Alto Soloist in Purcell‘s opera The Fairy Queen. \n'+         
+            'His musical journey began at the Shanghai Conservatory of Music, where he pursued a Bachelor‘s degree in Vocal and Opera Studies from 2020 to 2025 under the tutelage of Professor Heng Shi. As the first countertenor in the history of the Shanghai Conservatory of Music, he later chose to continue his studies in Germany. In October 2025, he became a Master’s student in the Opera Department of the Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart, studying under Diana Haller and Professor Bernhard Epstein.' ,
+        'about.bio2': 'In recent years, he has been active in top-tier vocal competitions worldwide. He achieved fifth place and the Encouragement Award at the Bologna International Vocal Competition in Italy and won third prize along with the Critics’Special Award at the "Vincerò" World Opera Competition in Verona. He also received the Finalist Award and the Metropolitan Opera Special Prize at the Daegu International Vocal Music Competition in South Korea and was a finalist in several prestigious international competitions, including Spain‘s "Tenor Viñas," Sweden’s "Wilhelm Stenhammar," and Austria‘s "Pietro Antonio Cesti" Baroque Opera Competition.\n' +
+            'In 2025, his talent gained further recognition in the international opera community. He was successfully selected for the International Opera Workshop in Waiblingen, Germany, founded by the world-renowned baritone Thomas Hampson and soprano Melanie Diener, where he received the project‘s annual opera scholarship and performed with a professional orchestra. In 2026, he starred as Ottone in Monteverdi’s Baroque opera L‘incoronazione di Poppea at the Wilhelma Theater in Stuttgart, under the baton of conductor Jörg Halubek and directed by Max Hoehn.\n' +
+            'During his studies in Europe, he had the privilege of learning from renowned mentors such as Cheryl Studer, Melanie Diener, Vivica Genaux, Renate Faltin, and Francesca Bruni.\n' +
+        'about.bio3': 'Since 2019, he has been a resident artist at the Festival International d‘Art Lyrique d’Argeles in France, participating in productions of operas such as Faust and L’Elisir d‘Amore. He has performed the role of Siebel in Gounod‘s opera Faust, Stepheno in Roméo et Juliette, and as an alto soloist in Purcell’s opera The Fairy Queen. In addition to successfully performing in winner‘s concerts at prestigious venues in Bologna and Verona, Italy, he also organized and participated in numerous Baroque and art song recitals with the support of the Shanghai Conservatory of Music and Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart.\n' +
         'about.resumeEn': 'Download Resume',
         'features.title': 'Gallery',
         'features.item1.title': 'Personal image',
@@ -282,21 +267,13 @@ const translations = {
         'hero.subtitle': 'Countertenor',
         'hero.button': 'Mehr erfahren',
         'about.subtitle': 'Über mich',
-        'about.bio1': 'WenBo Shuai wurde von europäischen Musikkritikern als „eine Stimme voller dramatischer Spannung“ beschrieben.\n' + 
-            'Er erhielt Auszeichnungen bei mehreren internationalen Wettbewerben, darunter:\n ' +
-            '• 42. Daegu International Vocal Music Competition - Finalist / Sonderpreis „Metropolitan Opera Company“\n'+ 
-            '• VII Concorso Lirico Internazionale „Giovan Battista Rubini“ - Finalist\n'+ 
-            '• 2023 VINCERÒ Opera World Competition - 3. Preis / Kritikerpreis \n'+ 
-            '• 2023 Bologna International Voice Competition - 5. Preis usw...',
-        'about.bio2': 'Im Jahr 2025 Studiere er an der Staatlichen Hochschule für Musik und Darstellende Kunst Stuttgart im Studiengang Gesang - Oper (mit Diana Haller).\n' +
-            'Ab 2023, er studierte in Europa bei Prof. Renate Faltin (Hochschule für Musik Hanns Eisler Berlin), Prof. Cheryl Studer (Hochschule für Musik Würzburg), Herr.Klaus Sallmann (Staatsoper Berlin), Herr.Uwe Griem und Herr.Felice Venanzoni (Oper Frankfurt).\n' +
-            'Von 2020 bis 2025 studierte er Gesang und Oper an der Shanghai Conservatory of Music (mit Prof.Heng Shi).\n' +
-            'Seit September 2025 ist er Mitglied der Internationalen Opernwerkstatt Waiblingen (Deutschland) und Stipendiat im Bereich Oper. Im Rahmen dessen arbeitet er mit Thomas Hampson und Melanie Diener zusammen und konzertiert mit der Württembergischen Philharmonie Reutlingen.\n',
-        'about.bio3': 'Im Mai 2023 gab er ein Barockkonzert mit dem Titel „Resplendent Pearl“ im Opernhaus des Shanghai Conservatory of Music.\n' +
-            'Im Juni 2023 trat er mit dem Kammerorchester des Konservatoriums im Konzert „Barocke Kammermusik“ auf und übernahm sowohl die Hauptrolle als auch den Alt-Part im Chor der Oper „The Fairy Queen“ von Henry Purcell. Ebenfalls im Juni 2023 sang er in Charles Gounods Oper „Roméo et Juliette“ in Shanghai die Rolle des Stéphano. Im November 2023 wirkte er beim Konzert „Deutscher und Russischer Meisterabend – Nacht der Kunstlieder“ im Shangyin Opera House mit.\n' +
-            'Seit 2019 ist er festes Ensemblemitglied des französischen Festival International d\'Art Lyrique d\'Argelès und wirkte dort u. a. in den Produktionen der Opern „Faust“ und „L\'elisir d\'amore“ mit. \n' +
-            'Im November 2019 sang er die Rolle des Siebel in Charles Gounods Oper „Faust“ unter der Regie von Prof. Heng Shi am Shanghai Conservatory of Music. \n' +
-            'Sein Gesangsstudium begann im Jahr 2016. Anfangs studierte er sowohl Tenor- als auch Bariton-Partien.Im Jahr 2018 begegnete er der italienischen Sopranistin Francesca Bruni sowie dem Bassbariton Prof. Heng Shi vom Shanghai Conservatory of Music und wechselte schließlich zum Fach Countertenor.',
+        'about.bio1': 'Seine Stimme wird von europäischen Kritikern als „reich an dramatischer Spannung“ gerühmt."\n' + 
+            'Er hat die Rolle des Ottone in Monteverdis Oper L’incoronazione di Poppea, die Rolle des Siebel in Gounods Oper Faust, die Rolle des Stepheno in Roméo et Juliette sowie die Alt-Solopartie in Purcells Oper The Fairy Queen gespielt. \n'+         
+            'Seine musikalische Laufbahn begann am Shanghaier Konservatorium für Musik, wo er von 2020 bis 2025 unter der Anleitung von Professor Shi Heng ein Bachelorstudium im Fach Gesang und Oper absolvierte. Als erster Countertenor in der Geschichte des Shanghaier Konservatoriums für Musik entschied er sich anschließend, sein Studium in Deutschland fortzusetzen. Im Oktober 2025 wurde er als Masterstudent in der Abteilung Opernschule an der Staatlichen Hochschule für Musik und Darstellende Kunst Stuttgart aufgenommen. Er studiert bei Diana Haller und Professor Bernhard Epstein studiert.' ,
+        'about.bio2': 'In den vergangenen Jahren war er bei hochrangigen Gesangswettbewerben weltweit aktiv. Er erreichte den fünften Platz sowie den Förderpreis beim Internationalen Gesangswettbewerb von Bologna (Italien) und gewann den dritten Preis sowie den Sonderpreis der Kritiker beim internationalen Opernwettbewerb „Vincerò“ in Verona. Darüber hinaus erhielt er den Finalistenpreis und den Spezialpreis der Metropolitan Opera beim Internationalen Gesangswettbewerb in Daegu (Südkorea). Zudem war er finalist bei mehreren renommierten internationalen Wettbewerben, darunter „Tenor Viñas“ (Spanien), „Wilhelm Stenhammar“ (Schweden) und der Barockopernwettbewerb „Pietro Antonio Cesti“ (Österreich).\n' +
+            'Im Jahr 2025 erlangte sein Talent weitere Anerkennung in der internationalen Opernszene. Er wurde erfolgreich für den International Opera Workshop in Waiblingen (Deutschland) ausgewählt, der vom weltweit bekannten Bariton Thomas Hampson und der Sopranistin Melanie Diener gegründet wurde. Dort erhielt er das jährliche Opernstipendium des Projekts und trat mit einem professionellen Orchester auf. Im Jahr 2026 übernahm er die Rolle des Ottone in Claudio Monteverdis Barockoper L’incoronazione di Poppea am Wilhelma Theater Stuttgart unter der musikalischen Leitung von Jörg Halubek und der Regie von Max Hoehn.\n' +
+            'Während seiner Studienzeit in Europa hatte er die Möglichkeit, von renommierten Mentoren wie Cheryl Studer, Melanie Diener, Vivica Genaux, Renate Faltin und Francesca Bruni zu lernen.\n' +
+        'about.bio3': 'Seit 2019 ist er als Resident Artist beim Festival International d’Art Lyrique d’Argeles in Frankreich tätig und wirkte dort in Opernproduktionen wie Faust und L’Elisir d’Amore mit. Er sang die Rollen von Gound’Oper des Siebel in Faust sowie des Stéphano in Roméo et Juliette, Purcell’ Oper des Alto Solist in The Fariy Queen. Neben erfolgreichen Auftritten in Preisträgerkonzerten an renommierten Spielstätten in Bologna und Verona (Italien) organisierte und gestaltete er zudem zahlreiche Barock- und Kunstliedabende mit Unterstützung des Shanghaier Konservatoriums für Musik sowie der Staatlichen Hochschule für Musik und Darstellende Kunst Stuttgart.\n' +
         'about.resumeDe': 'Lebenslauf herunterladen',
         'features.title': 'Galerie',
         'features.item1.title': 'Persönliches Bild',
