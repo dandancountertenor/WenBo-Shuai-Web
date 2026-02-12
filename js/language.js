@@ -509,4 +509,4 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // 页面加载后立即处理简历链接文本
   setTimeout(updateResumeLinkText, 100);
-});
+}); 
