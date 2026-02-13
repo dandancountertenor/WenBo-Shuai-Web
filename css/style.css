@@ -623,7 +623,7 @@ body > * {
     }
     
     .hero-content-group {
-        align-items: center; /* 小屏幕上也保持子元素垂直居中 */
+        align-items: flex-start; /* 小屏幕上也保持子元素垂直居中 */
         justify-content: flex-start;
         max-width: 95%; /* 小屏幕上增加最大宽度 */
     }
