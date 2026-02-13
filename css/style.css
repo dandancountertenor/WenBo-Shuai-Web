@@ -8,10 +8,10 @@
 :root {
     --primary-color: #2D3047; /* 深靛灰蓝 - 沉稳大气 */
     --secondary-color: #FFFDD0; /* 奶油色 - 温暖 */
-    --dark-color: #333333; /* 深灰色 - 文字 */
+    --dark-color: #393E46; /* 深灰色 - 文字 */
     --light-color: #F8F5F0; /* 浅米色/象牙色 - 古典欧洲风格背景 */
-    --accent-color: #A0522D; /* 棕褐色 - 强调 */
-    --white-color: #FFFFFF; /* 白色 - 背景 */
+    --accent-color: #FF8966; /* 暖橙 - 强调 */
+    --white-color: #F7F9FB; /* 柔白 - 背景 */
     --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     --transition: all 0.3s ease;
 }
