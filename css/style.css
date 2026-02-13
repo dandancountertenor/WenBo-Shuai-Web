@@ -37,10 +37,10 @@ body::before {
     right: 0;
     bottom: 0;
     background-image: url('../img/bgpitcture.png');
-    background-size: 700px 700px;
+    background-size: 600px 600px;
     background-position: center center;
     background-repeat: repeat;
-    opacity: 0.2; /* 稍低于首页，避免影响内容可读性 */
+    opacity: 0.8; /* 稍低于首页，避免影响内容可读性 */
     z-index: 0; /* 确保背景在内容下方 */
     pointer-events: none; /* 确保背景不干扰页面交互 */
 }
