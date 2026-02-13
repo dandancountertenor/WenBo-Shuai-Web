@@ -21,7 +21,7 @@ body {
     font-family: 'Lato', sans-serif;
     line-height: 1.6;
     color: var(--dark-color);
-    background-color: #525252; /* 设置与首页hero区域相同的深色背景 */
+    background-color: #4A4A4A; /* 设置与首页hero区域相同的深色背景 */
     position: relative;
     min-height: 100vh;
     margin: 0;
@@ -51,7 +51,7 @@ body::before {
 .media-main,
 .schedule-main {
     position: relative; /* 确保定位上下文 */
-    background-color: #525252; /* 设置与首页hero区域相同的深色背景 */
+    background-color: #4A4A4A; /* 设置与首页hero区域相同的深色背景 */
     z-index: 1; /* 确保内容在背景之上 */
 }
 
@@ -65,14 +65,14 @@ body::before {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(82, 82, 82, 0.8); /* 半透明深色覆盖 */
+    background-color: rgba(74, 74, 74, 0.8); /* 半透明深色覆盖 */
     z-index: -1; /* 确保覆盖层在内容下方，但在全局背景之上 */
     pointer-events: none; /* 确保不干扰交互 */
 }
 
 /* 演出页面整体容器样式 */
 .schedule-content-container {
-    background-color: rgba(255, 251, 235, 0.95); /* 米白色半透明背景 */
+    background-color: rgba(249, 243, 230, 0.95); /* 米白色半透明背景 */
     border-radius: 8px; /* 圆角效果 */
     padding: 20px;
     margin-bottom: 30px;
