@@ -6,13 +6,13 @@
 }
 
 :root {
-    --primary-color: #4682B4; /* 钢青 - 沉稳大气 */
-    --secondary-color: #E6E6FA; /* 薰衣草 - 温暖 */
-    --dark-color: #3E3E3E; /* 深灰色 - 文字 */
-    --light-color: #F0F8FF; /* 爱丽丝蓝 - 古典欧洲风格背景 */
-    --accent-color: #CD5C5C; /* 酒红 - 强调 */
+    --primary-color: #1A374D; /* 钢青 - 沉稳大气 */
+    --secondary-color: #F9F7F7; /* 薰衣草 - 温暖 */
+    --dark-color: #2C3333; /* 深灰色 - 文字 */
+    --light-color: #E8EAE6; /* 爱丽丝蓝 - 古典欧洲风格背景 */
+    --accent-color: #607EAA; /* 酒红 - 强调 */
     --white-color: #FFFFFF; /* 珍珠白 - 背景 */
-    --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --shadow: 0 4px 6px rgba(0, 0, 0, 0.08);
     --transition: all 0.3s ease;
 }
 
@@ -21,7 +21,7 @@ body {
     font-family: 'Lato', sans-serif;
     line-height: 1.6;
     color: var(--dark-color);
-    background-color: #E6E6FA; /* 设置与首页hero区域相同的深色背景 */
+    background-color: #393E46; /* 设置与首页hero区域相同的深色背景 */
     position: relative;
     min-height: 100vh;
     margin: 0;
@@ -40,7 +40,7 @@ body::before {
     background-size: 700px 700px;
     background-position: center center;
     background-repeat: repeat;
-    opacity: 0.8; /* 稍低于首页，避免影响内容可读性 */
+    opacity: 0.25; /* 稍低于首页，避免影响内容可读性 */
     z-index: 0; /* 确保背景在内容下方 */
     pointer-events: none; /* 确保背景不干扰页面交互 */
 }
@@ -51,7 +51,7 @@ body::before {
 .media-main,
 .schedule-main {
     position: relative; /* 确保定位上下文 */
-    background-color: #E6E6FA; /* 设置与首页hero区域相同的深色背景 */
+    background-color: #393E46; /* 设置与首页hero区域相同的深色背景 */
     z-index: 1; /* 确保内容在背景之上 */
 }
 
@@ -65,7 +65,7 @@ body::before {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(74, 74, 74, 0.8); /* 半透明深色覆盖 */
+    background-color: rgba(57, 62, 70, 0.85); /* 半透明深色覆盖 */
     z-index: -1; /* 确保覆盖层在内容下方，但在全局背景之上 */
     pointer-events: none; /* 确保不干扰交互 */
 }
