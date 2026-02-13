@@ -624,17 +624,17 @@ body > * {
     
     .hero-content-group {
         align-items: center; /* 小屏幕上也保持子元素垂直居中 */
-        justify-content: center;
+        justify-content: flex-start;
         max-width: 95%; /* 小屏幕上增加最大宽度 */
     }
     
     .hero-text {
-        text-align: center;
-        align-items: center;
+        text-align: left;
+        align-items: flex-start;
     }
     
     .hero-text .btn {
-        align-self: center;
+        align-self: left;
     }
     
     .hero-slider {
@@ -661,24 +661,24 @@ body > * {
 @media (max-width: 576px) {
     .hero-container {
         align-items: center; /* 超小屏幕上也保持垂直居中 */
-        justify-content: center;
+        justify-content: flex-start;
         padding: 1rem 0.5rem; /* 超小屏幕上减少内边距 */
     }
     
     .hero-content-group {
         align-items: center; /* 超小屏幕上也保持子元素垂直居中 */
-        justify-content: center;
+        justify-content: flex-start;
         max-width: 100%; /* 超小屏幕上使用全宽 */
         gap: 20px; /* 超小屏幕上固定较小间距 */
     }
     
     .hero-text {
-        text-align: center;
+        text-align: left;
         align-items: center;
     }
     
     .hero-text .btn {
-        align-self: center;
+        align-self: left;
     }
     
     .hero-title {
