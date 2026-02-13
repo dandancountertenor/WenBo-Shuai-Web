@@ -13,12 +13,12 @@ const translations = {
     "about.subtitle": "关于我",
     "about.bio1":
       "他拥有一个被欧洲乐评人赞誉为“富有戏剧张力”的嗓音。
-      他表演了以下角色：蒙特威尔第歌剧《波佩亚的加冕》中的奥托内，古诺德的《浮士德》中的西贝尔，《罗密欧与朱丽叶》中的斯蒂芬诺，以及珀塞尔的歌剧《仙女女王》中的Alto独奏家。
+      "他表演了以下角色：蒙特威尔第歌剧《波佩亚的加冕》中的奥托内，古诺德的《浮士德》中的西贝尔，《罗密欧与朱丽叶》中的斯蒂芬诺，以及珀塞尔的歌剧《仙女女王》中的Alto独奏家。
       
-      他的音乐之路开始在上海音乐学院，于2020至2025年间攻读声乐歌剧系学士学位，师从施恒教授，也是上海音乐学院历史上首位假声男高音，之后他选择前往德国学习，并在2025年10月成为斯图加特国立音乐与表演艺术学院声乐歌剧系的硕士研究生，师从克罗地亚籍女中音歌唱家Diana Haller与教授Bernhard Epstein。"\n" +
+      "他的音乐之路开始在上海音乐学院，于2020至2025年间攻读声乐歌剧系学士学位，师从施恒教授，也是上海音乐学院历史上首位假声男高音，之后他选择前往德国学习，并在2025年10月成为斯图加特国立音乐与表演艺术学院声乐歌剧系的硕士研究生，师从克罗地亚籍女中音歌唱家Diana Haller与教授Bernhard Epstein。"\n" +
     "about.bio2":
       "近年来，他的身影活跃在全球各大顶级声乐赛场。他在意大利博洛尼亚国际声乐大赛中获得第五名及鼓励奖，在维罗纳“Vincerò”世界歌剧大赛赢得了第三名和评论家特别奖。他获得了韩国大邱国际声乐大赛的决赛奖及大都会歌剧特别奖，并入围了包括西班牙“Tenor Viñas”、瑞典“Wilhelm Stenhammar”、奥地利“Pietro Antonio Cesti”巴洛克歌剧大赛，韩国首尔国际声乐比赛等…多项国际赛事。\n" +
-      },
+
       "2025年，他的才华获得了国际歌剧界的进一步认可。他成功入选由世界著名男中音托马斯·汉普森和女高音梅拉妮·迪纳在德国魏布林根创办的国际歌剧工作室，并成为该项目年度歌剧奖学金的获得者，并在魏布林根国际歌剧工作室中与专业乐团合作演出。2026年他在斯图加特的威廉玛剧院主演了由Jorg Helubeck指挥和Max Hoehn导演的蒙特威尔第的巴洛克歌剧《波佩亚的加冕》并成功饰演Ottone.\n" +
       "在欧洲求学期间，他有幸跟随Cherly Studer, Melanie Diener, Vivica Genaux, Renate Faltin, Francesca Bruni等老师学习。",
     "about.bio3":
@@ -152,11 +152,11 @@ const translations = {
     "about.bio1":
       'He possesses a voice praised by European critics as "rich in dramatic tension."\n' +
       "He has performed the following roles: Ottone in Monteverdi‘s opera L’incoronazione di Poppea, Siebel in Gounod’s Faust, Stepheno in Roméo et Juliette, and Alto Soloist in Purcell‘s opera The Fairy Queen. \n" +
-    },
+ 
       "His musical journey began at the Shanghai Conservatory of Music, where he pursued a Bachelor‘s degree in Vocal and Opera Studies from 2020 to 2025 under the tutelage of Professor Heng Shi. As the first countertenor in the history of the Shanghai Conservatory of Music, he later chose to continue his studies in Germany. In October 2025, he became a Master’s student in the Opera Department of the Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart, studying under Diana Haller and Professor Bernhard Epstein.",
     "about.bio2":
       'In recent years, he has been active in top-tier vocal competitions worldwide. He achieved fifth place and the Encouragement Award at the Bologna International Vocal Competition in Italy and won third prize along with the Critics’Special Award at the "Vincerò" World Opera Competition in Verona. He also received the Finalist Award and the Metropolitan Opera Special Prize at the Daegu International Vocal Music Competition in South Korea and was a finalist in several prestigious international competitions, including Spain‘s "Tenor Viñas," Sweden’s "Wilhelm Stenhammar," and Austria‘s "Pietro Antonio Cesti" Baroque Opera Competition.\n' +
-    },
+ 
       "In 2025, his talent gained further recognition in the international opera community. He was successfully selected for the International Opera Workshop in Waiblingen, Germany, founded by the world-renowned baritone Thomas Hampson and soprano Melanie Diener, where he received the project‘s annual opera scholarship and performed with a professional orchestra. In 2026, he starred as Ottone in Monteverdi’s Baroque opera L‘incoronazione di Poppea at the Wilhelma Theater in Stuttgart, under the baton of conductor Jörg Halubek and directed by Max Hoehn.\n" +
       "During his studies in Europe, he had the privilege of learning from renowned mentors such as Cheryl Studer, Melanie Diener, Vivica Genaux, Renate Faltin, and Francesca Bruni.",
     "about.bio3":
@@ -293,11 +293,11 @@ const translations = {
     "about.bio1":
       "Seine Stimme wird von europäischen Kritikern als „reich an dramatischer Spannung“ gerühmt.\n" +
       "Er hat die Rolle des Ottone in Monteverdis Oper L’incoronazione di Poppea, die Rolle des Siebel in Gounods Oper Faust, die Rolle des Stepheno in Roméo et Juliette sowie die Alt-Solopartie in Purcells Oper The Fairy Queen gespielt. \n" +
-     },
+ 
        "Seine musikalische Laufbahn begann am Shanghaier Konservatorium für Musik, wo er von 2020 bis 2025 unter der Anleitung von Professor Shi Heng ein Bachelorstudium im Fach Gesang und Oper absolvierte. Als erster Countertenor in der Geschichte des Shanghaier Konservatoriums für Musik entschied er sich anschließend, sein Studium in Deutschland fortzusetzen. Im Oktober 2025 wurde er als Masterstudent in der Abteilung Opernschule an der Staatlichen Hochschule für Musik und Darstellende Kunst Stuttgart aufgenommen. Er studiert bei Diana Haller und Professor Bernhard Epstein.",
     "about.bio2":
       "In den vergangenen Jahren war er bei hochrangigen Gesangswettbewerben weltweit aktiv. Er erreichte den fünften Platz sowie den Förderpreis beim Internationalen Gesangswettbewerb von Bologna (Italien) und gewann den dritten Preis sowie den Sonderpreis der Kritiker beim internationalen Opernwettbewerb „Vincerò“ in Verona. Darüber hinaus erhielt er den Finalistenpreis und den Spezialpreis der Metropolitan Opera beim Internationalen Gesangswettbewerb in Daegu (Südkorea). Zudem war er finalist bei mehreren renommierten internationalen Wettbewerben, darunter „Tenor Viñas“ (Spanien), „Wilhelm Stenhammar“ (Schweden) und der Barockopernwettbewerb „Pietro Antonio Cesti“ (Österreich).\n" +
-      },
+    
       "Im Jahr 2025 erlangte sein Talent weitere Anerkennung in der internationalen Opernszene. Er wurde erfolgreich für den International Opera Workshop in Waiblingen (Deutschland) ausgewählt, der vom weltweit bekannten Bariton Thomas Hampson und der Sopranistin Melanie Diener gegründet wurde. Dort erhielt er das jährliche Opernstipendium des Projekts und trat mit einem professionellen Orchester auf. Im Jahr 2026 übernahm er die Rolle des Ottone in Claudio Monteverdis Barockoper L’incoronazione di Poppea am Wilhelma Theater Stuttgart unter der musikalischen Leitung von Jörg Halubek und der Regie von Max Hoehn.\n" +
       "Während seiner Studienzeit in Europa hatte er die Möglichkeit, von renommierten Mentoren wie Cheryl Studer, Melanie Diener, Vivica Genaux, Renate Faltin und Francesca Bruni zu lernen.",
     "about.bio3":
