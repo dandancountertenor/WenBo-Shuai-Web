@@ -273,7 +273,7 @@ body > * {
 
  .lang-btn:hover {
     color: var(--primary-color);
-    background-color: #F0E6D2;
+    background-color: var(--secound-color);
     transform: translateY(-1px);
     box-shadow: var(--shadow);
 }
@@ -293,35 +293,35 @@ body > * {
 /* about页面背景 */
 .about-main {
     position: relative;
-    background-color: #525252; /* 设置偏黑色的深色背景 */
+    background-color: #4A4A4A; /* 设置偏黑色的深色背景 */
     overflow: hidden;
 }
 
 /* media页面背景 */
 .media-main {
     position: relative;
-    background-color: #525252; /* 设置偏黑色的深色背景 */
+    background-color: #4A4A4A; /* 设置偏黑色的深色背景 */
     overflow: hidden;
 }
 
 /* schedule页面背景 */
 .schedule-main {
     position: relative;
-    background-color: #525252; /* 设置偏黑色的深色背景 */
+    background-color: #4A4A4A; /* 设置偏黑色的深色背景 */
     overflow: hidden;
 }
 
 /* contact页面背景 */
 .contact-main {
     position: relative;
-    background-color: #525252; /* 设置偏黑色的深色背景 */
+    background-color: #4A4A4A; /* 设置偏黑色的深色背景 */
     overflow: hidden;
 }
 
 /* 英雄区域背景 */
 .hero {
     position: relative;
-    background-color: #525252; /* 设置偏黑色的深色背景 */
+    background-color: #4A4A4A; /* 设置偏黑色的深色背景 */
     overflow: hidden;
     min-height: 90vh; /* 增加header高度，占视口高度的90% */
     margin-bottom: 0; /* 缩小header的下边距 */
