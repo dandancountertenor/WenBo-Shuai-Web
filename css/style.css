@@ -40,7 +40,7 @@ body::before {
     background-size: 700px 700px;
     background-position: center center;
     background-repeat: repeat;
-    opacity: 0; /* 稍低于首页，避免影响内容可读性 */
+    opacity: 1; /* 稍低于首页，避免影响内容可读性 */
     z-index: 0; /* 确保背景在内容下方 */
     pointer-events: none; /* 确保背景不干扰页面交互 */
 }
